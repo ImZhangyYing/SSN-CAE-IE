@@ -4,7 +4,7 @@ Code of SSN-CAE+IE: A Self-supervised Fusion for Multi-modal Med-ical Images via
 ## To download:
     File of the model 
     File of the dataset 
-    Available at http
+    Available at https://pan.baidu.com/s/1uLicBywwEOk9dqnppfKa7w?pwd=37mi
  
 ## To test:
     run test.py
