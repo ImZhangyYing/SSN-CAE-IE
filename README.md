@@ -1,5 +1,5 @@
 # SSN-CAE+IE
-Code of SSN-CAE+IE: A Self-supervised Fusion for Multi-modal Med-ical Images via Contrastive Auto-encoding and Convolutional Information Exchange
+Code of SSN-CAE+IE: Self-supervised Fusion for Multi-modal Med-ical Images via Contrastive Auto-encoding and Convolutional Information Exchange
 
 ## To download:
     File of the model 
